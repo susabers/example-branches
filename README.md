@@ -1,6 +1,6 @@
 ex-branches blue
 ===========
-
+Saturday morning need coffee
 This repository contains several commits on `master` branch and two on feature branches and helps demonstrate branching and merging Git commands.
 
 ## Usage
